@@ -3,3 +3,4 @@ t la t1 đây
 s
 su dung git amend
 test thu
+su dung git amend
