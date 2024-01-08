@@ -1,3 +1,5 @@
 t la t1 đây
 
 s
+su dung git amend
+test thu
