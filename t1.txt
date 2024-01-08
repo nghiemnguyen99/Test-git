@@ -4,3 +4,8 @@ s
 su dung git amend
 test thu
 su dung git amend
+
+
+t ko thich amend
+amend 1
+
